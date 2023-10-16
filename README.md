@@ -11,7 +11,7 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 - Minutos relevantes do 00:15 até 00:55
 
 ###### Comportamentos esperados:
-* Repodutor Musicial: tocar, pausar, selecionarMusica
+* Repodutor Musical: tocar, pausar, selecionarMusica
 * Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 * Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
